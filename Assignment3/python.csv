@@ -1,0 +1,28 @@
+StudentID,Name,Age,Gender,Department,Marks
+101,Aarav Sharma,,Male,Computer Engineering,78
+102,Sita Thapa,19,Female,Electronics,85
+103,Rohan Gurung,21,Male,,67
+104,Priya Karki,20,Female,Information Technology,90
+105,Nabin BK,22,Male,Mechanical Engineering,74
+106,Anisha Rai,19,Female,Civil Engineering,88
+107,Samir Shrestha,21,Male,Computer Engineering,81
+108,Ritika Joshi,20,Female,Electronics,79
+109,Bikash KC,23,Male,Civil Engineering,72
+110,Asmita Adhikari,18,Female,Computer Engineering,95
+111,Suman Thapa,20,Male,Mechanical Engineering,69
+112,Nisha Koirala,22,Female,Architecture,84
+113,Rabin Gurung,21,Male,Information Technology,76
+114,Pooja Chaudhary,19,Female,Civil Engineering,80
+115,Deepak Oli,20,Male,Electronics,73
+116,Manisha Sharma,21,Female,Computer Engineering,92
+117,Ritesh Yadav,22,Male,Mechanical Engineering,70
+118,Kabita Thapa,20,Female,Architecture,87
+119,Saroj Bista,23,Male,Civil Engineering,75
+120,Sneha Poudel,18,Female,Information Technology,89
+121,Ajay Rana,21,Male,Computer Engineering,77
+122,Roshani Magar,20,Female,Electronics,83
+123,Prakash Karki,22,Male,Civil Engineering,68
+124,Alina Gurung,19,Female,Computer Engineering,91
+125,Bibek Acharya,20,Male,Architecture,82
+126,Sunita BK,,Female,Mechanical Engineering,65
+127,Arjun Lama,21,Male,Electronics
